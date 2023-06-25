@@ -1,0 +1,14 @@
+{
+  "name": "Cypress",
+  "version": "1.0.0",
+  "description": "automation ui using cypress",
+  "main": "index.js",
+  "author": "Rizki_Pratama",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open"
+  }
+}
